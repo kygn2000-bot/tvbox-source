@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 group-title="湖北",湖北卫视
+http://hbwseMgDKcjy.live.cjyun.org/video/s10008-hbws.m3u8
+#EXTINF:-1 group-title="湖北",湖北卫视
+http://live.cjyun.org/video/s10008-hbws2018/index.m3u8
+#EXTINF:-1 group-title="湖北",湖北卫视
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221227377/index.m3u8
+#EXTINF:-1 group-title="湖北",湖北经视
+http://hbjsD1aSfcjy.live.cjyun.org/video/s10008-hbjs2017.m3u8
+#EXTINF:-1 group-title="湖北",湖北经视
+http://live.cjyun.org/video/s10008-hbjs2018/index.m3u8
+#EXTINF:-1 group-title="湖北",湖北综合
+http://hbzh77cjy.live.cjyun.org/video/s10008-zh.m3u8
+#EXTINF:-1 group-title="湖北",湖北综合
+http://live.cjyun.org/video/s10008-zh2018/index.m3u8
+#EXTINF:-1 group-title="湖北",湖北公共新闻
+http://hbggxw77cjy.live.cjyun.org/video/s10008-ggxw.m3u8
+#EXTINF:-1 group-title="湖北",湖北公共新闻
+http://live.cjyun.org/video/s10008-ggxw2018/index.m3u8
+#EXTINF:-1 group-title="湖北",湖北影视
+http://hbysdCmjbcjy.live.cjyun.org/video/s10008-hbys2017.m3u8
+#EXTINF:-1 group-title="湖北",湖北影视
+http://live.cjyun.org/video/s10008-hbys2018/index.m3u8
+#EXTINF:-1 group-title="湖北",湖北生活
+http://hbsh77cjy.live.cjyun.org/video/s10008-ty.m3u8
+#EXTINF:-1 group-title="湖北",湖北生活
+http://live.cjyun.org/video/s10008-ty2018/index.m3u8
+#EXTINF:-1 group-title="湖北",湖北教育
+http://hbjy77cjy.live.cjyun.org/video/s10008-jy.m3u8
+#EXTINF:-1 group-title="湖北",湖北教育
+http://live.cjyun.org/video/s10008-jy2018/index.m3u8
+#EXTINF:-1 group-title="湖北",垄上频道
+http://hbls77cjy.live.cjyun.org/video/s10008-ls.m3u8
+#EXTINF:-1 group-title="湖北",垄上频道
+http://live.cjyun.org/video/s10008-ls2018s/index.m3u8
+#EXTINF:-1 group-title="湖北",美嘉购物
+http://hbmj77cjy.live.cjyun.org/video/s10008-mj01.m3u8
+#EXTINF:-1 group-title="湖北",美嘉购物
+http://live.cjyun.org/video/s10008-mj012018/index.m3u8
+#EXTINF:-1 group-title="湖北",湖北快乐成长
+http://hbklcz77cjy.live.cjyun.org/video/s10008-klcz.m3u8
+#EXTINF:-1 group-title="湖北",湖北快乐成长
+http://live.cjyun.org/video/s10008-klcz2018/index.m3u8
+#EXTINF:-1 group-title="武汉",武汉新闻综合
+http://live.hannews.com.cn/video/s10001-wuhannews/index.m3u8
+#EXTINF:-1 group-title="武汉",武汉新闻综合
+http://58.48.37.158:1111/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="武汉",武汉教育
+http://58.48.37.158:1111/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
