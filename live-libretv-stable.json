@@ -1,0 +1,403 @@
+{
+  "lives": [
+    {
+      "name": "央视",
+      "channels": [
+        {
+          "name": "CCTV1",
+          "urls": [
+            "http://120.76.248.139/live/bfgd/4200000484.m3u8",
+            "http://120.76.248.139/live/bfgd/4200000488.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV2",
+          "urls": [
+            "http://120.76.248.139/live/bfgd/4200000061.m3u8",
+            "https://play.kankanlive.com/live/1698234898628961.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV3",
+          "urls": [
+            "https://piccpndali.v.myalicdn.com/audio/cctv3_2.m3u8",
+            "http://120.76.248.139/live/bfgd/4200000062.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV4",
+          "urls": [
+            "https://play.kankanlive.com/live/1698234936258960.m3u8",
+            "http://120.76.248.139/live/bfgd/4200000063.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV5",
+          "urls": [
+            "https://piccpndali.v.myalicdn.com/audio/cctv5_2.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV5+",
+          "urls": [
+            "http://120.76.248.139/live/bfgd/4200000246.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV6",
+          "urls": [
+            "http://120.76.248.139/live/bfgd/4200000065.m3u8",
+            "https://piccpndali.v.myalicdn.com/audio/cctv6_2.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV7",
+          "urls": [
+            "http://8.138.7.223/tv/cctv7.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV8",
+          "urls": [
+            "https://piccpndali.v.myalicdn.com/audio/cctv8_2.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV9",
+          "urls": [
+            "http://120.76.248.139/live/bfgd/4200000128.m3u8",
+            "https://play.kankanlive.com/live/1698423397390920.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV10",
+          "urls": [
+            "https://play.kankanlive.com/live/1698423445959919.m3u8",
+            "https://piccpndali.v.myalicdn.com/audio/cctv10_2.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV11",
+          "urls": [
+            "https://play.kankanlive.com/live/1698423476198918.m3u8",
+            "https://piccpndali.v.myalicdn.com/audio/cctv11_2.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV12",
+          "urls": [
+            "https://play.kankanlive.com/live/1698423511884917.m3u8",
+            "http://120.76.248.139/live/bfgd/4200000131.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV13",
+          "urls": [
+            "http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8",
+            "https://play.kankanlive.com/live/1698423543275916.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV14",
+          "urls": [
+            "https://play.kankanlive.com/live/1698423575756915.m3u8",
+            "https://event.pull.hebtv.com/jishi/cp2.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV15",
+          "urls": [
+            "https://play.kankanlive.com/live/1698423607826914.m3u8",
+            "http://120.76.248.139/live/bfgd/4200000133.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV16",
+          "urls": [
+            "https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV17",
+          "urls": [
+            "https://play.kankanlive.com/live/1698423272597921.m3u8",
+            "http://120.76.248.139/live/bfgd/4200000204.m3u8"
+          ]
+        },
+        {
+          "name": "CGTN",
+          "urls": [
+            "http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8"
+          ]
+        },
+        {
+          "name": "CGTN法语",
+          "urls": [
+            "http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8"
+          ]
+        },
+        {
+          "name": "CGTN纪录",
+          "urls": [
+            "https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8"
+          ]
+        },
+        {
+          "name": "CGTN西语",
+          "urls": [
+            "https://0472.org/hls/cgtnx.m3u8"
+          ]
+        },
+        {
+          "name": "CGTN记录",
+          "urls": [
+            "https://0472.org/hls/cgtnd.m3u8"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "卫视",
+      "channels": [
+        {
+          "name": "东南卫视",
+          "urls": [
+            "http://live.zohi.tv/video/s10001-fztv-3/index.m3u8"
+          ]
+        },
+        {
+          "name": "东方卫视",
+          "urls": [
+            "http://bp-resource-dfl.bestv.cn/155/3/video.m3u8"
+          ]
+        },
+        {
+          "name": "东方卫视4K",
+          "urls": [
+            "https://bp-resource-dfl.bestv.cn/148/3/video.m3u8"
+          ]
+        },
+        {
+          "name": "内蒙古卫视",
+          "urls": [
+            "http://play1-qk.nmtv.cn/live/1769652018126032.m3u8"
+          ]
+        },
+        {
+          "name": "宁夏卫视",
+          "urls": [
+            "https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8"
+          ]
+        },
+        {
+          "name": "广东卫视",
+          "urls": [
+            "https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4"
+          ]
+        },
+        {
+          "name": "延边卫视",
+          "urls": [
+            "https://srs.iyb983.cn:443/video/CYS/index.m3u8"
+          ]
+        },
+        {
+          "name": "浙江卫视",
+          "urls": [
+            "http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8",
+            "https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8"
+          ]
+        },
+        {
+          "name": "湖南卫视",
+          "urls": [
+            "https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8"
+          ]
+        },
+        {
+          "name": "黑龙江卫视",
+          "urls": [
+            "https://idclive.hljtv.com:4430/live/hljws_own.m3u8"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "港澳台",
+      "channels": [
+        {
+          "name": "TVBS亚洲",
+          "urls": [
+            "http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8"
+          ]
+        },
+        {
+          "name": "TVBs",
+          "urls": [
+            "http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8"
+          ]
+        },
+        {
+          "name": "东森美洲卫视",
+          "urls": [
+            "http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8"
+          ]
+        },
+        {
+          "name": "凤凰资讯",
+          "urls": [
+            "http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8"
+          ]
+        },
+        {
+          "name": "台视新闻",
+          "urls": [
+            "http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8"
+          ]
+        },
+        {
+          "name": "民视新闻台",
+          "urls": [
+            "http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8"
+          ]
+        },
+        {
+          "name": "香港電台普通話台",
+          "urls": [
+            "https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "海外",
+      "channels": [
+        {
+          "name": "Bloomberg TV Europe",
+          "urls": [
+            "https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8"
+          ]
+        },
+        {
+          "name": "亚洲新闻",
+          "urls": [
+            "http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8"
+          ]
+        },
+        {
+          "name": "广西国际",
+          "urls": [
+            "https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8"
+          ]
+        },
+        {
+          "name": "浙江国际",
+          "urls": [
+            "https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "风景慢直播",
+      "channels": [
+        {
+          "name": "丽江古城万古楼遥望玉龙雪山",
+          "urls": [
+            "https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8"
+          ]
+        },
+        {
+          "name": "丽江古城大水车",
+          "urls": [
+            "https://gcalic.v.myalicdn.com/gc/ljgcdsc_1/index.m3u8"
+          ]
+        },
+        {
+          "name": "乌镇全景",
+          "urls": [
+            "https://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8"
+          ]
+        },
+        {
+          "name": "乌镇蓝印花布",
+          "urls": [
+            "https://gcalic.v.myalicdn.com/gc/zjwzlyhb_1/index.m3u8"
+          ]
+        },
+        {
+          "name": "乌镇西市河",
+          "urls": [
+            "https://gcalic.v.myalicdn.com/gc/zjwzbblh_1/index.m3u8"
+          ]
+        },
+        {
+          "name": "乐山大佛全景",
+          "urls": [
+            "https://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8"
+          ]
+        },
+        {
+          "name": "云南丽江玉龙雪山",
+          "urls": [
+            "https://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8"
+          ]
+        },
+        {
+          "name": "云南丽江蓝月谷",
+          "urls": [
+            "https://gcalic.v.myalicdn.com/gc/ylxs12_1/index.m3u8"
+          ]
+        },
+        {
+          "name": "云南大理崇圣寺三塔远景",
+          "urls": [
+            "https://gcalic.v.myalicdn.com/gc/dlst01_1/index.m3u8"
+          ]
+        },
+        {
+          "name": "云南白沙远眺玉龙雪山",
+          "urls": [
+            "https://gcalic.v.myalicdn.com/gc/hkylxs03_1/index.m3u8"
+          ]
+        },
+        {
+          "name": "四川峨眉山远眺贡嘎雪山",
+          "urls": [
+            "https://gcalic.v.myalicdn.com/gc/emsyh_1/index.m3u8"
+          ]
+        },
+        {
+          "name": "安徽池州九华山风景区九华山",
+          "urls": [
+            "https://gcalic.v.myalicdn.com/gc/jhs05_1/index.m3u8"
+          ]
+        },
+        {
+          "name": "恒山悬空寺全景",
+          "urls": [
+            "https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8"
+          ]
+        },
+        {
+          "name": "江苏徐州云龙湖风景区云龙山观景台西",
+          "urls": [
+            "https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8"
+          ]
+        },
+        {
+          "name": "狮子山鸟瞰丽江古城",
+          "urls": [
+            "https://gcalic.v.myalicdn.com/gc/ljgcszsnkgc_1/index.m3u8"
+          ]
+        },
+        {
+          "name": "中央电视塔东",
+          "urls": [
+            "https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8"
+          ]
+        }
+      ]
+    }
+  ]
+}
