@@ -1,0 +1,515 @@
+{
+  "spider": "",
+  "sites": [
+    {
+      "key": "火狐",
+      "name": "茶杯狐",
+      "type": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "categories": [
+        "内地剧",
+        "韩剧",
+        "香港剧",
+        "台湾剧",
+        "欧美剧",
+        "日剧",
+        "动作片",
+        "科幻片",
+        "战争片",
+        "喜剧片",
+        "爱情片",
+        "恐怖片",
+        "犯罪片",
+        "剧情片",
+        "冒险片",
+        "记录片",
+        "大陆综艺",
+        "日韩综艺",
+        "台湾综艺",
+        "伦理片",
+        "欧美综艺",
+        "动画片",
+        "中国动漫",
+        "日本动漫",
+        "欧美动漫"
+      ]
+    },
+    {
+      "key": "虎牙采集",
+      "name": "🍁虎牙采集🍁|cdn2020",
+      "type": 1,
+      "api": "https://www.huyaapi.com/api.php/provide/vod/",
+      "style": {
+        "ratio": 1.7
+      }
+    },
+    {
+      "key": "金鹰采集",
+      "name": "🍁金鹰采集🍁|cdn2020",
+      "type": 1,
+      "api": "https://jyzyapi.com/provide/vod/",
+      "style": {
+        "ratio": 1.7
+      }
+    },
+    {
+      "key": "非凡采集",
+      "name": "🍁非凡采集🍁|cdn2020",
+      "type": 1,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+      "style": {
+        "ratio": 1.7
+      }
+    },
+    {
+      "key": "暴风采集",
+      "name": "🍁暴风采集🍁|cdn2020",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod/",
+      "style": {
+        "ratio": 1.7
+      }
+    },
+    {
+      "key": "华为吧采集",
+      "name": "🍁华为吧采集🍁|cdn2020",
+      "type": 1,
+      "api": "https://hw8.live/api.php/provide/vod/",
+      "style": {
+        "ratio": 1.7
+      }
+    },
+    {
+      "key": "豪华采集",
+      "name": "🍁豪华采集🍁|cdn2020",
+      "type": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod/",
+      "style": {
+        "ratio": 1.7
+      }
+    },
+    {
+      "key": "红枸杞",
+      "name": "🌹红枸杞🌹",
+      "type": 1,
+      "api": "https://www.heimuer.tv/api.php/provide/vod",
+      "playUrl": "https://player.heimuer.tv/index.html?url=",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "剧情",
+        "动作",
+        "冒险",
+        "同性",
+        "喜剧",
+        "奇幻",
+        "恐怖",
+        "悬疑",
+        "惊悚",
+        "灾难",
+        "爱情",
+        "犯罪",
+        "科幻",
+        "动画电影",
+        "歌舞",
+        "战争",
+        "经典",
+        "网络电影",
+        "国产剧",
+        "港剧",
+        "韩剧",
+        "日剧",
+        "泰剧",
+        "台剧",
+        "欧美剧",
+        "新马剧",
+        "其他剧",
+        "国产综艺",
+        "港台综艺",
+        "韩国综艺",
+        "日本综艺",
+        "欧美综艺",
+        "新马泰综艺",
+        "其他综艺",
+        "欧美",
+        "日本",
+        "韩国",
+        "国产",
+        "港台",
+        "古装",
+        "虐恋",
+        "逆袭",
+        "悬疑",
+        "神豪",
+        "重生",
+        "复仇",
+        "穿越",
+        "甜宠",
+        "强者"
+      ]
+    },
+    {
+      "key": "新浪影视",
+      "name": "新浪影视",
+      "type": 1,
+      "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "国产剧",
+        "短剧",
+        "韩国剧",
+        "香港剧",
+        "台湾剧",
+        "欧美剧",
+        "动作片",
+        "科幻片",
+        "战争片",
+        "奇幻片",
+        "喜剧片",
+        "爱情片",
+        "恐怖片",
+        "犯罪片",
+        "悬疑片",
+        "惊悚片",
+        "剧情片",
+        "冒险片",
+        "记录片",
+        "动作片",
+        "日本剧",
+        "泰剧",
+        "国产综艺",
+        "港台综艺",
+        "欧美综艺",
+        "日韩综艺",
+        "国产动漫",
+        "港台动漫",
+        "日韩动漫"
+      ]
+    },
+    {
+      "key": "卧龙影视",
+      "name": "卧龙影视",
+      "type": 1,
+      "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "国产剧",
+        "短剧",
+        "韩国剧",
+        "香港剧",
+        "台湾剧",
+        "欧美剧",
+        "动作片",
+        "科幻片",
+        "战争片",
+        "奇幻片",
+        "喜剧片",
+        "爱情片",
+        "恐怖片",
+        "犯罪片",
+        "悬疑片",
+        "惊悚片",
+        "剧情片",
+        "冒险片",
+        "记录片",
+        "动作片",
+        "日本剧",
+        "泰剧",
+        "国产综艺",
+        "港台综艺",
+        "欧美综艺",
+        "日韩综艺",
+        "国产动漫",
+        "港台动漫",
+        "日韩动漫"
+      ]
+    },
+    {
+      "key": "红牛影视",
+      "name": "红牛影视",
+      "type": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0,
+      "categories": [
+        "国产剧",
+        "短剧",
+        "韩国剧",
+        "香港剧",
+        "台湾剧",
+        "欧美剧",
+        "动作片",
+        "科幻片",
+        "战争片",
+        "奇幻片",
+        "喜剧片",
+        "爱情片",
+        "恐怖片",
+        "犯罪片",
+        "悬疑片",
+        "惊悚片",
+        "剧情片",
+        "冒险片",
+        "记录片",
+        "动作片",
+        "日本剧",
+        "泰剧",
+        "国产综艺",
+        "港台综艺",
+        "欧美综艺",
+        "日韩综艺",
+        "国产动漫",
+        "港台动漫",
+        "日韩动漫"
+      ]
+    },
+    {
+      "key": "闪电影视",
+      "name": "闪电影视",
+      "type": 1,
+      "api": "http://sdzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "国产剧",
+        "短剧",
+        "韩国剧",
+        "香港剧",
+        "台湾剧",
+        "欧美剧",
+        "动作片",
+        "科幻片",
+        "战争片",
+        "奇幻片",
+        "喜剧片",
+        "爱情片",
+        "恐怖片",
+        "犯罪片",
+        "悬疑片",
+        "惊悚片",
+        "剧情片",
+        "冒险片",
+        "记录片",
+        "动作片",
+        "日本剧",
+        "泰剧",
+        "国产综艺",
+        "港台综艺",
+        "欧美综艺",
+        "日韩综艺",
+        "国产动漫",
+        "港台动漫",
+        "日韩动漫"
+      ]
+    },
+    {
+      "key": "飞速影视",
+      "name": "飞速影视",
+      "type": 1,
+      "api": "https://www.feisuzy.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0,
+      "categories": [
+        "国产剧",
+        "短剧",
+        "韩国剧",
+        "香港剧",
+        "台湾剧",
+        "欧美剧",
+        "动作片",
+        "科幻片",
+        "战争片",
+        "奇幻片",
+        "喜剧片",
+        "爱情片",
+        "恐怖片",
+        "犯罪片",
+        "悬疑片",
+        "惊悚片",
+        "剧情片",
+        "冒险片",
+        "记录片",
+        "动作片",
+        "日本剧",
+        "泰剧",
+        "国产综艺",
+        "港台综艺",
+        "欧美综艺",
+        "日韩综艺",
+        "国产动漫",
+        "港台动漫",
+        "日韩动漫"
+      ]
+    },
+    {
+      "key": "光速影视",
+      "name": "光速影视",
+      "type": 1,
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "大陆剧",
+        "短剧",
+        "韩国剧",
+        "港澳剧",
+        "台湾剧",
+        "欧美剧",
+        "动作片",
+        "科幻片",
+        "战争片",
+        "奇幻片",
+        "喜剧片",
+        "爱情片",
+        "恐怖片",
+        "犯罪片",
+        "悬疑片",
+        "惊悚片",
+        "剧情片",
+        "冒险片",
+        "记录片",
+        "动作片",
+        "日本剧",
+        "泰剧",
+        "国产综艺",
+        "港台综艺",
+        "欧美综艺",
+        "日韩综艺",
+        "国产动漫",
+        "港台动漫",
+        "日韩动漫"
+      ]
+    }
+  ],
+  "parses": [
+    {
+      "name": "聚合1",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
+      "name": "聚合0",
+      "type": 3,
+      "url": "Web"
+    },
+    {
+      "name": "-咸鱼-",
+      "type": 0,
+      "url": "https://jx.xyflv.cc/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
+          "referer": "https://www.xyflv.cc/"
+        }
+      }
+    },
+    {
+      "name": "-虾米-",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+        }
+      }
+    },
+    {
+      "name": "-爱酷-",
+      "type": 0,
+      "url": "https://jx.zhanlangbu.com/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "ext": {
+          "header": {
+            "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      }
+    },
+    {
+      "name": "-云解析-",
+      "type": 0,
+      "url": "https://jx.yparse.com/index.php?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name": "-777-",
+      "type": 0,
+      "url": "https://jx.jsonplayer.com/player/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name": "-剖云-",
+      "type": 0,
+      "url": "https://www.kkvip2022.com/vip/jiexi1/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name": "-全看-",
+      "type": 0,
+      "url": "https://jx.quankan.app/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name": "-爱豆-",
+      "type": 0,
+      "url": "https://jx.aidouer.net/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
+          "referer": "https://jiejie.uk/"
+        }
+      }
+    }
+  ],
+  "flags": [],
+  "flags2": [],
+  "parses2": [],
+  "doh": {},
+  "ads": [],
+  "ijk": {},
+  "rules": [],
+  "wallpaper": "",
+  "xg": false,
+  "chase": [],
+  "spiderUrl": ""
+}
